@@ -10,7 +10,9 @@ const App = () => {
     return (
         <div>
             <GuestList />
-            <UserSearch />
+            <div>
+                <UserSearch />
+            </div>
         </div>
     );
 };  
