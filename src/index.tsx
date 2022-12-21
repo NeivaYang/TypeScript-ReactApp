@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom/client";
 import GuestList from "./state/guestList";
-import UserSearch from "./state/userSearch";
+import UserSearch from "./refs/userSearch";
 
 const el = document.getElementById("root");
 
